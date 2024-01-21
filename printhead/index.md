@@ -10,7 +10,7 @@ The new printhead is used in the Kobra 2 Pro, Plus and Max, and contains the fol
 * The heatsink fan is a 24V 30x30x10 axial fan. Model marked as **HSC BCY3010D24H**
 * The part cooling fan is a 24V 50x50x20 centrifugal fan. Model is marked as **COOLCOX BF5020H24D**
 * An induction sensor for automatic bed leveling. According to 1coderookie, is a PNP-NO type, similar if not the same as the ones used in previous Kobra models.
-* A distribution board that also contains an accelerometer. Is the same accelerometer that the bed uses and judging from the pinout seems to be a WSEN-ITDS or clone.
+* A distribution board that also contains an accelerometer. Is the same accelerometer that the bed uses and judging from the pinout seems to be a LIS2DW12.
 
 ## Pinouts
 ![Printhead pinout](Printhead-pinout.svg)

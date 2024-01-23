@@ -15,7 +15,7 @@ As the pinout is quite straightforward, I won't do the fancy SVG.
 * Z-limit goes to CALIBRATION in motherboard. JST-ZHR2
 * ACC-SENSOR goes to the connector of the same name in motherboard. JST-ZHR7
 
-#The accelerometer
+# The accelerometer
 ![The accelerometer board, taken with my microscope](acceleration-board.png)
 In Kobra Pro 2 Insights page is stated that the accelerator is an ADXL but the markings don't match (ADXL are not available in that size and pinout).
 By visually tracing the pins on the board and because of the markings on top of the IC I think most probably a [LIS2DW12](lis2dw12.pdf).

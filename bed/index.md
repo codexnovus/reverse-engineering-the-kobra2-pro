@@ -17,5 +17,4 @@ As the pinout is quite straightforward, I won't do the fancy SVG.
 
 # The accelerometer
 ![The accelerometer board, taken with my microscope](acceleration-board.png)
-In Kobra Pro 2 Insights page is stated that the accelerator is an ADXL but the markings don't match (ADXL are not available in that size and pinout).
-By visually tracing the pins on the board and because of the markings on top of the IC I think most probably a [LIS2DW12](lis2dw12.pdf).
+The board contains a [LIS2DW12](lis2dw12.pdf) accelerometer; same model as in the header.

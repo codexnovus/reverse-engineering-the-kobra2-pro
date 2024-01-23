@@ -16,7 +16,7 @@ Instead of that, let's just go over what I found so far.
 ## Other noteworthy efforst I've saw, and references:
 * The thread that started it all: [Printer.cfg for Anycubic Kobra 2 Plus/Pro/Max](https://klipper.discourse.group/t/printer-cfg-for-anycubic-kobra-2-plus-pro-max/)
 * Referenced on the thread, user _kenguru_ has released a modification that allows you to redirect the MQTT messages to a server of your own, bypassing the need of using the anycubic app. [Kobra unleashed](https://github.com/anjomro/kobra-unleashed)
-* Github user _Catnippr_ is compiling information about the anycubic Kobra 2 Pro on its [Kobra2Pro Insights Page](https://1coderookie.github.io/Kobra2ProInsights/)
+* User _Catnippr_ is compiling information about the anycubic Kobra 2 Pro on its [Kobra2Pro Insights Page](https://1coderookie.github.io/Kobra2ProInsights/)
 * Anycubic Reddit community has published a [FAQ for Kobra 2 Series](https://www.reddit.com/r/anycubic/comments/19113t3/faq_for_kobra_2_series/) that summarizes many of the main points of the conversation.
 
 

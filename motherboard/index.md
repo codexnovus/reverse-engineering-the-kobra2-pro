@@ -11,7 +11,7 @@ The motherboard doesn't feature any SD card reader, but includes 8GB of flash me
 
 For driving the axis, the motherboard has four TMC2209 stepper drivers soldered directly. It communicates with them via UART.
 
-And fortunately for us, it has a soldered Debug header with clearly labeled pinout so we can work our way out of this mess.
+And fortunately for us, it has a soldered debug header with clearly labeled pinout so we can work our way out of this mess.
 
 ![Photo of the motherboard, with some of the components labeled](./motherboard-reference.png)
 ### Some more notes
@@ -23,13 +23,13 @@ And fortunately for us, it has a soldered Debug header with clearly labeled pino
 ![Pinout of the motherboard](motherboard-pinout.svg)
 
 Connectors are as follows
-* POWER and HOTBED use straight power cables (tipped)
-* MB-FAN, T1, and LIGHT use PHR-2
-* CALIBRATION uses a JST ZHR2
-* ACC-SENSOR uses a JST ZHR7
-* ZL and ZR use JST PHR-4
-* Y-CON uses JST PHR-7
-* X-CON and E-CON use (I think) JVT "PHB" connectors (JVT2041HNO-14 and JVT2041HNO-24 respectively)
+* POWER and HOTBED use straight power cables with ferrules being added
+* MB-FAN, T1, and LIGHT use 2pin XH 2.54
+* CALIBRATION uses a 2pin JST PH 2.0
+* ACC-SENSOR uses a 7pin JST PH 2.0
+* ZL and ZR use 4pin JST XH 2.54
+* Y-CON uses 7pin JST XH 2.54
+* X-CON (14pin) and E-CON (24pin) use JVT PHB 2.0 connectors (JVT2041HNO-14 and JVT2041HNO-24 respectively)
 
 
 ## Other relevant data
